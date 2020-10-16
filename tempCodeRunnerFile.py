@@ -1,0 +1,1 @@
+/artists/<int:artist_id>/edit
